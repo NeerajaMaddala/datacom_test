@@ -21,15 +21,6 @@ Bug Form is a testing form that allows user to register.
 ## Scope
 Develop detailed test cases for the following functionalities:
 - User Registration
-- User login
-- Viewing the list of chat rooms
-- Joining a chat room
-- Sending and receiving messages
-- Viewing user profiles
-- Settings 
-- Logout 
-- Delete account 
-- Profile 
 
 > Note: Ensure the test cases cover both positive and negative scenarios.
 > This is not part of the test but this is to demostrate how i scope and prioritise test scenarios
@@ -46,7 +37,7 @@ Low impact high ease (P3 - Low customer impact features and High ease Testing ef
 
 Low impact low ease (P4 - Low customer impact features and Low Testing effort)
 
-**The output of this step is a prioritised matrix**:
+**The output of this step is a prioritised matrix as an example of my previous project**:
 
 ![alt text](image.png)
 
