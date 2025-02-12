@@ -1,4 +1,4 @@
-# React Native Chat App Testing
+# Datacom Bug Form - User Registration Testing
 
 ## Introduction 
 Bug Form is a testing form that allows user to register. 
@@ -58,7 +58,7 @@ In order to test the Bug Form,  I would follow the ACC (Attribute, component, ca
 > Note: 
 A capability is the intersection between an attribute and a component, for example we can be testing the Secure attribute of the login component, we can then say the 'Login component is Secure When un-authorized user Do NOT have access to Bug Form' 
 
-**For the testing of ChatApp I would used the following attributes:**
+**For the testing of Bug Form I would used the following attributes:**
 
 **Secure**: Focus in finding any type of vulnerability in the application
 
